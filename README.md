@@ -18,7 +18,7 @@ The neural dynamical system (NDS) has emerged as a cutting-edge technology that 
   * open3d>=0.17.0
   * scikit-learn>=0.21.3
   * pandas>=2.0.2
-  * TorchdiffEq
+  * TorchDiffEq
 
 ## Installation
 
@@ -36,7 +36,7 @@ The neural dynamical system (NDS) has emerged as a cutting-edge technology that 
    pip install matplotlib
    pip install scipy
    pip install numpy
-   pip install TorchdiffEq
+   pip install TorchDiffEq
    ```
 
 ## License
